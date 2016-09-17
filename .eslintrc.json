@@ -28,6 +28,14 @@
     ],
     "no-console": [
       "warn"
+    ],
+    "comma-dangle": [
+      "error",
+      "only-multiline"
+    ],
+    "key-spacing": [
+      "error",
+      {"beforeColon": false, "afterColon": true}
     ]
   }
 }
